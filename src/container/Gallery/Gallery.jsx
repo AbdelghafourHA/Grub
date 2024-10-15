@@ -43,6 +43,7 @@ const Gallery = () => {
             images.gallery02,
             images.gallery03,
             images.gallery04,
+            images.gallery05,
           ].map((image, index) => (
             <div
               className="grub-gallery-images_card flex__center"
