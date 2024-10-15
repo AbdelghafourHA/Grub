@@ -12,7 +12,7 @@ const Footer = () => (
     <div className="grub-footer-links">
       <div className="grub-footer-links_contact">
         <h1 className="grub-footer-headtext">Contact Us</h1>
-        <p className="p__opensans">9 W 53rd St, Algeria, RE 10019, DZD</p>
+        <p className="p__opensans">8 W 53rd St, Algeria, RE 10019, DZD</p>
         <p className="p__opensans">+213 698-05-53-44</p>
         <p className="p__opensans">+213 553-52-31-88</p>
       </div>
