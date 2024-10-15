@@ -12,13 +12,13 @@ const Footer = () => (
     <div className="grub-footer-links">
       <div className="grub-footer-links_contact">
         <h1 className="grub-footer-headtext">Contact Us</h1>
-        <p className="p__opensans">9 W 53rd St, New York, NY 10019, USA</p>
-        <p className="p__opensans">+1 212-344-1230</p>
-        <p className="p__opensans">+1 212-555-1230</p>
+        <p className="p__opensans">9 W 53rd St, Algeria, RE 10019, DZD</p>
+        <p className="p__opensans">+213 698-05-53-44</p>
+        <p className="p__opensans">+213 553-52-31-88</p>
       </div>
 
       <div className="grub-footer-links_logo">
-        <img src={images.gericht} alt="footer_logo" />
+        <h1>GRUB</h1>
         <p className="p__opensans">
           &quot;The best way to find yourself is to lose yourself in the service
           of others.&quot;
@@ -45,7 +45,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
+      <p className="p__opensans">2024 Grub. All Rights reserved.</p>
     </div>
   </div>
 );
